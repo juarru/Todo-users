@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <odoo>
-    <data noupdate="0">
+    <data noupdate="1">
         <record id="todo-tasks.todo_task_per_user_rule" model="ir.rule">
             <field name="name">
                 ToDo task for owner and followers
